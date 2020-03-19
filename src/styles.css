@@ -457,9 +457,9 @@ label {
   letter-spacing: .2px;
 }
 
-[role="main"] {
-  padding-top: 65px;
-}
+/* [role="main"] {
+  padding-top: 60px;
+} */
 
 .preloader {
   min-height: 400px;
